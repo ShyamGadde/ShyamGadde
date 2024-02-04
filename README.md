@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Shyam, and I'm not really sure what else to add... *trails off*
+👋 Hi there, I'm Shyam, and I'm not really sure what else to add... *trails off*
 
 <!--
 **ShyamGadde/ShyamGadde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
